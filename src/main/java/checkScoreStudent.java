@@ -1,5 +1,3 @@
-package org.example;
-
 public class checkScoreStudent {
     public String check(String wish, double total, double scoreMath) {
         String res = "Trượt";
